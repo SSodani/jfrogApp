@@ -1,0 +1,14 @@
+//
+//  AppDelegate.h
+//  jfrogApp
+//
+//  Created by Sonam Sodani on 2021-07-06.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+
+@end
+
