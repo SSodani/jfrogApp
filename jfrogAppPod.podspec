@@ -12,6 +12,6 @@ s.author           = { 'username' => 'sodani.sonam@gmail.com' }
 s.source           = { :git => 'https://github.com/SSodani/jfrogApp.git', :tag => s.version.to_s }
 
 s.ios.deployment_target = '10.0'
- s.source_files = 'jfrogApp/**/*.{h,m}'
+ s.source_files = 'jfrogApp/jfrogApp/jfrogApp/ViewController.m'
 end
-                   
+
